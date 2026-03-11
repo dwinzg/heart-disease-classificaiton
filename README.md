@@ -79,8 +79,6 @@ While this analysis employs financial proxies to evaluate clinical utility, we r
 
 The objective of this study is to highlight high-signal variables and identify potential areas for resource optimization; it is not intended to prescribe healthcare policy or offer clinical shortcuts. We acknowledge that medical decision-making requires a holistic integration of patient history, professional intuition, and ethical standards that go beyond statistical modeling. As such, these findings should be viewed as a proof-of-concept for feature-utility mapping and not as a replacement for the established protocols and specialized judgment of healthcare professionals.
 
-This updated draft refines the ethical disclaimer to sound more professional and academic, framing the economic aspect as a "proxy for utility" rather than a direct valuation of life. It emphasizes the project’s role as a theoretical framework for resource optimization while maintaining professional respect for clinical expertise.
-
 ## Refined Technical Appendix
 Constraints: 
 * **Sample Size and Power:** The Cleveland dataset’s limited sample size ($N=297$) restricts the statistical power of the DeLong tests. The near-significant p-values for Tier 4 ($0.09$) and Tier 5 ($0.06$) suggest that in a larger clinical cohort, these specialized tests would likely demonstrate a statistically significant diagnostic lift.
